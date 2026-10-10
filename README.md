@@ -14,8 +14,11 @@ Français : [README.fr.md](README.fr.md).
 | 2 | WebGoat web exploitation: SQL injection, path traversal, XXE, XSS, broken authentication, client-side controls | [EN](lab2-webgoat/README.md) · [FR](lab2-webgoat/README.fr.md) |
 | 3 | Linux host penetration test: recon, credential discovery, command injection, and a MySQL UDF escalation to root | [EN](lab3-linux-pentest/README.md) · [FR](lab3-linux-pentest/README.fr.md) |
 | 4 | Applied cryptography and PKI with OpenSSL: symmetric and hybrid encryption, signatures, Argon2 cracking, a certificate chain, and TLS setup | [EN](lab4-cryptography/README.md) · [FR](lab4-cryptography/README.fr.md) |
+| 5 | Secure authentication in a Spring Boot app (defensive build): RBAC, BCrypt password policy, audit, and hardened session management | [EN](lab5-secure-auth-app/README.md) · [FR](lab5-secure-auth-app/README.fr.md) |
 
 More will be added as I finish them.
+
+Labs 1 to 4 are offensive and analysis work; lab 5 is a defensive build, included to show the other side of the same skills.
 
 ## What each write-up gives you
 
@@ -44,6 +47,10 @@ ets-security-labs/
     README.fr.md
     img/
   lab4-cryptography/
+    README.md
+    README.fr.md
+    img/
+  lab5-secure-auth-app/
     README.md
     README.fr.md
     img/
