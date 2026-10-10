@@ -12,6 +12,7 @@ Français : [README.fr.md](README.fr.md).
 |-----|-------|----------|
 | 1 | Malware analysis: process injection, mass-mailer worm, web droppers, string and crypto triage | [EN](lab1-malware-analysis/README.md) · [FR](lab1-malware-analysis/README.fr.md) |
 | 2 | WebGoat web exploitation: SQL injection, path traversal, XXE, XSS, broken authentication, client-side controls | [EN](lab2-webgoat/README.md) · [FR](lab2-webgoat/README.fr.md) |
+| 3 | Linux host penetration test: recon, credential discovery, command injection, and a MySQL UDF escalation to root | [EN](lab3-linux-pentest/README.md) · [FR](lab3-linux-pentest/README.fr.md) |
 
 More will be added as I finish them.
 
@@ -34,6 +35,10 @@ ets-security-labs/
     README.fr.md       French write-up
     img/               screenshots of the analysis steps
   lab2-webgoat/
+    README.md
+    README.fr.md
+    img/
+  lab3-linux-pentest/
     README.md
     README.fr.md
     img/
